@@ -1,0 +1,1 @@
+package com.hitachi.api; public class HitachiApiGismaApplication {}
