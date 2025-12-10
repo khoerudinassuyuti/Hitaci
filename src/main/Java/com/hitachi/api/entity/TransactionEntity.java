@@ -1,0 +1,1 @@
+package com.hitachi.api.entity; public class TransactionEntity {}
